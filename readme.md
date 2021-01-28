@@ -1,6 +1,12 @@
 
 # TCP file Transfer 
 
+### Run the command 
+```
+python3 file-transfer.py
+```
+
+### Usage 
 
 ```
 usage: file-transfer.py [-h] [-c [CLIENT]] [-s [SERVER]] [-i IP] [-p PORT]
