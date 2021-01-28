@@ -1,3 +1,8 @@
+
+# TCP file Transfer 
+
+
+```
 usage: file-transfer.py [-h] [-c [CLIENT]] [-s [SERVER]] [-i IP] [-p PORT]
                         [-f FILE]
 
@@ -13,3 +18,4 @@ optional arguments:
 
 
  You must specify --client or --server
+```
